@@ -1,0 +1,29 @@
+[33mcommit dbbbe02533720ead002de6c59f19f71011d864d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: manueltov <manuel@tovar.pt>
+Date:   Mon Feb 18 15:33:19 2019 +0000
+
+    Added more text to third.txt
+
+[33mcommit 25c16443c677ef0922af2d0c300f31adcb778fcd[m
+Author: manueltov <manuel@tovar.pt>
+Date:   Mon Feb 18 15:31:28 2019 +0000
+
+    Added text to third.txt
+
+[33mcommit fd2c3e691ccba80804dc0682471a04ba8211315f[m
+Author: manueltov <manuel@tovar.pt>
+Date:   Mon Feb 18 15:26:33 2019 +0000
+
+    Added second.txt and removed first.txt
+
+[33mcommit c5bfbc988a1c0d1ae3c9b97c6f82f68533c34709[m
+Author: manueltov <manuel@tovar.pt>
+Date:   Mon Feb 18 15:14:03 2019 +0000
+
+    one more thing!! and some editions on the mail
+
+[33mcommit 7064f7d8681bfb326d88b7a77dbef62bc9d8afd9[m
+Author: manueltov <up201811626@fe.up.pt>
+Date:   Mon Feb 18 15:00:59 2019 +0000
+
+    Initial commit!
